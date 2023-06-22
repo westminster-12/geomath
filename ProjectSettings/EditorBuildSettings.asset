@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/menu.unity
+    guid: 526c6082c9b7d5d459bcf49fd3a40a37
+  - enabled: 1
+    path: Assets/Scenes/pilihObjek.unity
+    guid: 23523f23e9afb3d43821e167b061f916
+  - enabled: 1
+    path: Assets/Scenes/showBalok.unity
+    guid: 2d7569e6352e7f8459551f3d4cadd610
+  - enabled: 1
+    path: Assets/Scenes/showBola.unity
+    guid: 1ae83299db10cfb429be9cc263d9f1ad
+  - enabled: 1
+    path: Assets/Scenes/showBujurSangkar.unity
+    guid: e74461b69f2386c488fa3917a232528c
+  - enabled: 1
+    path: Assets/Scenes/showLingkaran.unity
+    guid: 02702a69ef3d2fe4385cc0193dede8e2
+  - enabled: 1
+    path: Assets/Scenes/showKerucut.unity
+    guid: 1d999c45efd3f0e4cbc9c135a1628b4c
+  - enabled: 1
+    path: Assets/Scenes/showKubus.unity
+    guid: 5f4e3b0fb0738a349bbfdbfdec38ad83
+  - enabled: 1
+    path: Assets/Scenes/showPersegiPanjang.unity
+    guid: 0bd522c0f0f572f43a408dfabe26acc9
+  - enabled: 1
+    path: Assets/Scenes/showPrismaSegitiga.unity
+    guid: 98d555eef8580cc4d8fa37552f64fde8
+  - enabled: 1
+    path: Assets/Scenes/showSegitiga.unity
+    guid: 5de2520f84035144cae784e0267da1bd
+  - enabled: 1
+    path: Assets/Scenes/showTabung.unity
+    guid: b9d6f423e0818ee44ad8b84d19e6aa3b
+  - enabled: 1
+    path: Assets/Scenes/tentang.unity
+    guid: 49aaf4de979ca9046a2f06cf3c774644
+  m_configObjects: {}
